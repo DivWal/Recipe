@@ -4,6 +4,7 @@
 
 1)	Dump data into database
 2)	Get Request on / to fetch details
+3)	Post Data 
 
 AdditionalFeaturesCovered
 
