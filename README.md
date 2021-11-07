@@ -19,4 +19,4 @@ Start server at `http://localhost:8290/`
 
 
 
-## Requistes provided : https://s3-ap-southeast-1.amazonaws.com/he-public-data/reciped9d7b8c.json 
+Requisites provided : https://s3-ap-southeast-1.amazonaws.com/he-public-data/reciped9d7b8c.json 
