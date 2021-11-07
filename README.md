@@ -9,7 +9,7 @@
 AdditionalFeaturesCovered
 
 1)	Details displayed for specific id
-2)	Image displayed corresponding to thatid
+2)	Image displayed corresponding to that id
 
 
 Tech stack used : SpringBoot,MongoDb
